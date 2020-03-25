@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e7a4cb421bb310d8c52f3b5"},"fx":"4*x^3-3*x^4+x^3","a":{"$numberInt":"1"},"b":{"$numberInt":"2"},"__v":{"$numberInt":"0"}}
